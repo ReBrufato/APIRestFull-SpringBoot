@@ -4,6 +4,7 @@ O projeto consiste no desenvolvimento de uma APIRestfull utilizando Spring Frame
 A aplicação foi desenvolvida de acordo com os quatro pilares do modelo de maturidade de Leonard Richardson
 
 #Como rodar o projeto
-1° - Criar um banco de dados utilizando 
+1° - Criar um banco de dados utilizando PostgreSQl
 2° - Setar as propriedades da aplicação em 'application.properties'
-3° - 
+3° - Executar a classe SpringbootApplication que está na raiz do projeto
+4° - Testar utilizando Postman
